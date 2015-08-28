@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.4.28)  26 AUG 2015 23:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.4.28)  28 AUG 2015 00:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -307,8 +307,11 @@ LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
- (./contents.aux) (./chap1.aux) (./chap2.aux)
-(./appa.aux) (./appb.aux) (./biblio.aux))
+ (./contents.aux) (./chap1.aux) (./chap2.aux
+
+LaTeX Warning: Label `ch1:opts' multiply defined.
+
+) (./appa.aux) (./appb.aux) (./biblio.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
@@ -402,107 +405,35 @@ LaTeX Info: Redefining \% on input line 2.
 
 ]
 Cap\'{\i }tulo 1.
-
-LaTeX Warning: Citation `patterson:risc' on page 13 undefined on input line 32.
-
-
-
-LaTeX Warning: Citation `rad83' on page 13 undefined on input line 32.
-
-
-LaTeX Warning: Citation `ellis:bulldog' on page 13 undefined on input line 40.
-
-
-LaTeX Warning: Citation `pet87' on page 13 undefined on input line 40.
-
-
-LaTeX Warning: Citation `coutant:precision-compilers' on page 13 undefined on i
-nput line 40.
-
-
-LaTeX Warning: Citation `gib86' on page 13 undefined on input line 44.
-
-[13]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 76.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 76.
-
-
-LaTeX Warning: Reference `exponent-format' on page 14 undefined on input line 7
-6.
-
-
-LaTeX Warning: Reference `mantissa-format' on page 14 undefined on input line 7
-6.
-
-
-LaTeX Warning: Reference `unnorm-math' on page 14 undefined on input line 77.
-
-[14]
-
-LaTeX Warning: Citation `thornton:cdc6600' on page 15 undefined on input line 9
-2.
-
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 92.
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [15]
-
-LaTeX Warning: Reference `opt:be' on page 16 undefined on input line 131.
-
-
-LaTeX Warning: Reference `range-tracking' on page 16 undefined on input line 16
-0.
-
-[16]
-Underfull \vbox (badness 1389) has occurred while \output is active []
-
- [17]
-
-LaTeX Warning: Citation `magenheimer:precision' on page 18 undefined on input l
-ine 204.
-
-
-LaTeX Warning: Citation `byte:i860' on page 18 undefined on input line 214.
-
-
-LaTeX Warning: Citation `ellis:bulldog' on page 18 undefined on input line 227.
-
-
-
-LaTeX Warning: Citation `colwell:vliw' on page 18 undefined on input line 227.
-
-[18]
-
-LaTeX Warning: Citation `gib86' on page 19 undefined on input line 248.
-
-) [19]
+) [13]
 \openout2 = `chap2.aux'.
 
+ (./chap2.tex [14
 
-No file chap2.tex.
+
+
+]
+Cap\'{\i }tulo 2.
+) [15]
 \openout2 = `appa.aux'.
 
-(./appa.tex [20
-
-
+ (./appa.tex [16
 
 
 
 ]
 Ap\'{e}ndice A.
-[21])
+[17])
 \openout2 = `appb.aux'.
 
- (./appb.tex [22
+ (./appb.tex [18
 
 
 
 
 ]
 Ap\'{e}ndice B.
-[23] [24])
+[19] [20])
 \openout2 = `biblio.aux'.
 
  (./biblio.tex
@@ -515,16 +446,16 @@ LaTeX Info: Redefining \% on input line 11.
  (./contents.aux) (./chap1.aux) (./chap2.aux)
 (./appa.aux) (./appb.aux) (./biblio.aux))
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1716 strings out of 493305
- 19205 string characters out of 6139897
- 80543 words of memory out of 5000000
- 5125 multiletter control sequences out of 15000+600000
- 17644 words of font info for 39 fonts, out of 8000000 for 9000
+ 1670 strings out of 493305
+ 18242 string characters out of 6139897
+ 79543 words of memory out of 5000000
+ 5086 multiletter control sequences out of 15000+600000
+ 13576 words of font info for 33 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 28i,8n,26p,223b,301s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,7n,26p,207b,301s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (24 pages, 26876 bytes).
+Output written on main.dvi (20 pages, 12568 bytes).
