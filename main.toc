@@ -12,22 +12,20 @@
 \contentsline {section}{\numberline {2.1}Planificaci\IeC {\'o}n acad\'ecima}{19}{section.2.1}
 \contentsline {section}{\numberline {2.2}Relog - Agenda - Calendario}{20}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Facilitaci\'on gr\'afica}{20}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Implementac\'on}{20}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Ejemplos de implementaci\'on}{22}{subsection.2.2.3}
-\contentsline {section}{\numberline {2.3}Definir los tipos de tiempos}{22}{section.2.3}
-\contentsline {section}{\numberline {2.4}Beneficios}{22}{section.2.4}
-\contentsline {section}{\numberline {2.5}Aplicaci\'on}{22}{section.2.5}
+\contentsline {subsection}{\numberline {2.2.2}Implementac\'on}{21}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Beneficios}{22}{section.2.3}
 \contentsline {chapter}{\numberline {3}M\'etodo progresivo-incremental}{23}{chapter.3}
 \contentsline {section}{\numberline {3.1}Desarrollo del m\'etodo}{23}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}github}{26}{subsection.3.1.1}
 \contentsline {section}{\numberline {3.2}Claves}{26}{section.3.2}
 \contentsline {section}{\numberline {3.3}Beneficios}{26}{section.3.3}
 \contentsline {section}{\numberline {3.4}Conclusi\'on y Resultados}{27}{section.3.4}
-\contentsline {chapter}{\numberline {4}Aprender a pensar}{29}{chapter.4}
-\contentsline {section}{\numberline {4.1}Dar tiempo para crear}{29}{section.4.1}
-\contentsline {section}{\numberline {4.2}a}{29}{section.4.2}
-\contentsline {section}{\numberline {4.3}b}{29}{section.4.3}
-\contentsline {section}{\numberline {4.4}Beneficios}{29}{section.4.4}
+\contentsline {chapter}{\numberline {4}Ense\~nar a pensar}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Definir los tipos de tiempos}{29}{section.4.1}
+\contentsline {section}{\numberline {4.2}Ofrecerle la oportunidad de hacer sus propio camino}{29}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Dar tiempo para crear}{29}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}Estimulaci\'on}{30}{section.4.3}
+\contentsline {section}{\numberline {4.4}Beneficios}{30}{section.4.4}
 \contentsline {chapter}{\numberline {5}Evaluaci\'on Slow}{31}{chapter.5}
 \contentsline {section}{\numberline {5.1}Una manera diferente de evaluar}{31}{section.5.1}
 \contentsline {section}{\numberline {5.2}Desarrollo del m\IeC {\'e}todo}{31}{section.5.2}
