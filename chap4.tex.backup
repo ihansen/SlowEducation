@@ -7,39 +7,37 @@
   \end{center}
 }    
 \section{Las estructuras del proceso creativo}
-\'Este cap\'itulo est\'a enfocado a ese\~nar o ayudar a pensar, pero antes es necesario definir algunos conceptos.\\
-\textit{¿Qu\'e es realmente ense\~nar a pensar?, ¿se puede ense\~nar a pensar?}\\
+\'Este cap\'itulo esta enfocado a ese\~nar a pensar, pero antes es necesario definir algunos conceptos.\\
+\textit{¿Qu\'e es realmente ense\~nar a pensar?, ¿Se puede ense\~nar a pensar}\\
 Cuando hablamos de ense\~nar a pensar nos referimos a pulir el proceso creativo, a inspirar y presentar trabajos distintos, donde los alumnos sean capaces de
-manejar alternativas a lo tradicional. Para eso los docentes deben ser gu\'ias o falicitadores mediante esta herramienta.\\
-Se puede extrapolar el desarrollo convencional a algo distinto e innovador, libre y creativo, culto y did\'actico.
+presentar alternativas a lo tradicional. Para eso los docentes deben ser gu\'ias mediante esta herramienta.\\
+Se puede extrapolar el desarrollo convencional a algo distinto e innovador.
 
 \section{Ofrecerle la oportunidad de hacer sus propios caminos}
-No darle las cosas hechas, solucionadas o terminadas, sino que, desde el apoyo y el acompañamiento, permitirle a los estudiantes hacer, a\'un a 
+es decir, no darle las cosas hechas, solucionadas o terminadas, sino que, desde el apoyo y el acompañamiento, permitirle a los estudiantes hacer, a\'un a 
 riesgo de que se equivoque y aunque ello suponga rectificar m\'as tarde.
 \subsection{Dar tiempo para crear}
-El mecanismo de crear generalmente construye o busca la soluci\'on a un problema. Creamos tambi\'en para aprender nuevas cosas. Ahora bien, para crar cualquier 
+Cuando creamos generalmente construimos o buscamos la soluci\'on a un problema. Creamos tambi\'en para aprender nuevas cosas. Ahora bien, para crar cualquier 
 tipo de cosa necesitamos par\'ametros de entradas los cuales seguir, por ejemplo, para crear un edificio necesito saber; tipo, altura, tama\~no, etc, o para
 construir una soluci\'on a un problema matem\'atico es necesario conocer; la operaci\'on, el resultado esperado, otros m\'etodos aplicables, etc. \\
-Dar tiempo a la creaci\'on es: 
-%grafico sobre dise\~no .. revision .. feedback y evaluacion de resultados.
-\subsection{¿Cuando aplicamos esta herramienta?}
+\subsection{Cuando aplicamos esta herramienta?}
 ¿Qu\'e necesitamos de nuestros alumnos como creadores?. La respuesta es simple, que sean capaces de solucionar un problema o dejarles una ense\~nanza.\\
 %crear cartas con cada uno de estos pasos con checklist para saber si estan listas y continuar a la siguiente fase
 %las cartas con como las hojas de desing thinking.
-El desarrollo y real aplicaci\'on de esta herramienta puede ser en trabajos de campos, trabajos pr\'acticos, evaluaciones de desempe\~no, recuperaciones, 
-monograf\'ias, etc. Para ello la siguiente lista de pasos:\\
+El desarrollo y real aplicaci\'on de esta herramienta puede ser en trabajos de campos, trabajos pr\'acticos, evaluaciones de desempe\~no, recuperaciones, monograf\'ias,
+etc. Para ello la siguiente lista de pasos:\\
 \begin{enumerate}
- \item \textbf{Formular el problema:}
+ \item Formular el problema:
  El rol del docente en este paso es vital para el buen desarrollo y \'exito de esta herramienta. Es necesario que el docente sea observador de que es realmente
- lo esperado de los trabajos, es decir, lo entregable o resultado final. Despu\'es, formular las descripciones consiste en plantear las metas a lograr por el o 
+ lo esperado de los trabajos, es decir, lo entregable o resultado final. Despu\'es formular las descripciones consiste en plantear las metas a lograr por el o 
  los alumnos, pautas las condiciones m\'inimas requeridas y la definici\'on de cuando estar\'a listo.\\
- Por ejemplo; docentes de programaci\'on, el resultado final de un cierto trabajo es la construcci\'on de un determinado software y su descripci\'on son los 
+ Por ejemplo, docentes de programaci\'on, el resultado final de un cierto trabajo es la construcci\'on de un determinado software y su descripci\'on son los 
  requerimientos del sistema. O un docente de f\'isica, lograr la formulaci\'on y resoluci\'on de conflictos en planos el\'ectricos son metas y la descripci\'on
  tiene que estar dada por las variables intervinientes y condiciones externas.\\ 
  Los docentes deben ser creativos a la hora de definir las problem\'aticas, porque para ayudar o ense\~nar a pensar es condici\'on necesaria que el medio o 
  dise\~no que la soluci\'on no sea \'unica. Por ejemplo, la f\'ormula de velocidad es distancia sobre tiempo, existen muy pocos caminos para llegar a ese 
  resultados y todos son conocidos. 
- \item \textbf{Observar y dar feedback sobre dise\~nos:}
+ \item Observar y dar feedback sobre dise\~nos:
  El desaf\'io de la soluci\'on pasa por el dise\~no, cuanto m\'as preciso, determin\'istico, acotado y simple sea es mejor. Entonces, como paso inmediato a 
  formular el problema y previamente comprobar que los alumnos entiendan el problema a solucionar, podemos dar el segundo paso que es evaluar los dise\~nos 
  presentados dando feedback o corroborando criterios para que funcione bien, como ser:
@@ -51,18 +49,9 @@ monograf\'ias, etc. Para ello la siguiente lista de pasos:\\
   \item Que presente \'areas inesperadas sin explorar para trabajos posteriores.
  \end{itemize}
 
- \item \textbf{Desarrollar y prototipar:}
- Este paso consiste en evaluar el desarrollo mediante la presentaci\'on de prototipos, pueden ser; gr\'aficos, maquetas, artefactos, objetos, idealmente algo 
- con que interactuar y experimentar, cualquiera de estos medios que respondan a preguntas sobre el desarrollo y acerquen a la soluci\'on final.\\
- ¿Porqu\'e prototipar? 
- \begin{itemize}
-  \item Para poder construir e invertar al mismo tiempo.
-  \item Para comunicar y presentar entregables.
-  \item Para empezar conversaciones e intercambiar ideas.
-  \item Para cometer error en tiempo de dise\~no y desarrollo no tan avanzados entonces fallar temprano es m\'as barato.
-  \item Para analizar alternativas y evaluar robustez.
- \end{itemize}
- \item \textbf{Recabar informaci\'on sobre como funciona}
+ \item Desarrollas y prototipar:
+ 
+ \item Recabar informaci\'on sobre como funciona
 \end{enumerate}
 
 
