@@ -13,13 +13,19 @@ Cuando hablamos de ense\~nar a pensar nos referimos a pulir el proceso creativo,
 manejar alternativas a lo tradicional. Para eso los docentes deben ser gu\'ias o falicitadores mediante esta herramienta.\\
 Se puede extrapolar el desarrollo convencional a algo distinto e innovador, libre y creativo, culto y did\'actico.
 
-\section{Ofrecerle la oportunidad de hacer sus propios caminos}
-No darle las cosas hechas, solucionadas o terminadas, sino que, desde el apoyo y el acompañamiento, permitirle a los estudiantes hacer, a\'un a 
-riesgo de que se equivoque y aunque ello suponga rectificar m\'as tarde.
+\section{A los alumnos, ofrecerles la oportunidad de hacer sus propios caminos}
+Como docentes, si nos detenemos a pensar por un minuto los contenidos de los programas podremos notar, que en m\'as de uno esta sujeto a explorar diferentes
+m\'etodos o soluciones para resolver problemas. Es aqu\'i donde debemos prestar atenci\'on para expandir y estimular los procesos creativos.\\
+Si abordamos cualquier tema en un trabajo pr\'actico con simples cuestionarios, no podemos pretender grandes desarrollos o ricas concluiones, mismo criterio 
+para las evaluaciones.\\
+Volviendo al principio, los docentes son los totales responsables de los resultados finales de los trabajos, esperamos resultados creativos en trabajos
+creativamente planteados.
+
 \subsection{Dar tiempo para crear}
-El mecanismo de crear generalmente construye o busca la soluci\'on a un problema. Creamos tambi\'en para aprender nuevas cosas. Ahora bien, para crar cualquier 
-tipo de cosa necesitamos par\'ametros de entradas los cuales seguir, por ejemplo, para crear un edificio necesito saber; tipo, altura, tama\~no, etc, o para
-construir una soluci\'on a un problema matem\'atico es necesario conocer; la operaci\'on, el resultado esperado, otros m\'etodos aplicables, etc. \\
+El mecanismo de crear generalmente construye o busca la soluci\'on a un problema. Aplicamos el concepto de creaci\'on tambi\'en para aprender y experimentar 
+nuevos desafios. Ahora bien, para crar cualquier tipo de cosa necesitamos par\'ametros de entradas los cuales seguir, por ejemplo, para crear un edificio 
+necesito saber; tipo, altura, tama\~no, etc, o para construir una soluci\'on a un problema matem\'atico es necesario conocer; la operaci\'on, el resultado 
+esperado, otros m\'etodos aplicables, etc. \\
 Dar tiempo a la creaci\'on es: 
 %grafico sobre dise\~no .. revision .. feedback y evaluacion de resultados.
 \subsection{¿Cuando aplicamos esta herramienta?}
@@ -39,6 +45,7 @@ monograf\'ias, etc. Para ello la siguiente lista de pasos:\\
  Los docentes deben ser creativos a la hora de definir las problem\'aticas, porque para ayudar o ense\~nar a pensar es condici\'on necesaria que el medio o 
  dise\~no que la soluci\'on no sea \'unica. Por ejemplo, la f\'ormula de velocidad es distancia sobre tiempo, existen muy pocos caminos para llegar a ese 
  resultados y todos son conocidos. 
+ 
  \item \textbf{Observar y dar feedback sobre dise\~nos:}
  El desaf\'io de la soluci\'on pasa por el dise\~no, cuanto m\'as preciso, determin\'istico, acotado y simple sea es mejor. Entonces, como paso inmediato a 
  formular el problema y previamente comprobar que los alumnos entiendan el problema a solucionar, podemos dar el segundo paso que es evaluar los dise\~nos 
@@ -52,33 +59,56 @@ monograf\'ias, etc. Para ello la siguiente lista de pasos:\\
  \end{itemize}
 
  \item \textbf{Desarrollar y prototipar:}
- Para el desarrollo y futuro \'exito del proyecto es necesario tener en cuenta los siguientes puntos para luego pasar las evalu
- Este paso consiste en evaluar el desarrollo mediante la presentaci\'on de prototipos, pueden ser; gr\'aficos, maquetas, artefactos, objetos, idealmente algo 
- con que interactuar y experimentar, cualquiera de estos medios que respondan a preguntas sobre el desarrollo y acerquen a la soluci\'on final.\\
- ¿Porqu\'e prototipar? 
+ Para el desarrollo y futuro \'exito del proyecto es necesario tener en cuenta los siguientes puntos para luego pasar las silumaciones y evaluaciones:
+ Supongamos como ejemplo que nuestro problema a solucionar es la desnutrici\'on infantil acotado en la escuela del barrio. En el punto anterior se dise\~no
+ como soluci\'on la creaci\'on de una comida gustosa, sana, econ\'omica y nutritiva como lo es la ensalada de frutas.
  \begin{itemize}
-  \item Para poder construir e invertar al mismo tiempo.
-  \item Para comunicar y presentar entregables.
-  \item Para empezar conversaciones e intercambiar ideas.
-  \item Para cometer errores en tiempo de dise\~no y desarrollo no tan avanzados, entonces fallar temprano es m\'as barato.
-  \item Para analizar alternativas y evaluar robustez.
+  \item \textit{Hip\'otesis afianzada al dise\~no:}\\
+  Partimos de la hip\'otesis que a la mayor\'ia de los ni\~nos les gutan las frutas, hay frutas locales econ\'omicas y es de f\'acil preparaci\'on. Entonces 
+  hay que validar la hip\'otesis en la escuela y mercados cercanos.
+  \item Supuestos riesgosos:\\
+  Si validaciones como; a los ni\~nos no les gustan las frutas o las frutas locales son realmente costosas, el dise\~no propuesto no es v\'alido y tenemos que
+  retornar al punto anterior.
+  \item \textit{Manos a la obra:}\\
+  Tenemos que preparar la mayor cantidad de ensaladas de frutas, con la mayor proteina posible y al menos costo. \'Esta etapa es la m\'as pura del desarrollo.
+  \item \textit{Prototipar:}\\
+  Este paso consiste en evaluar el desarrollo mediante la presentaci\'on de prototipos, pueden ser; gr\'aficos, maquetas, artefactos, objetos, idealmente algo 
+  con que interactuar y experimentar, cualquiera de estos medios que respondan a preguntas sobre el desarrollo y acerquen a la soluci\'on final.\\
+  ¿Porqu\'e prototipar? 
+  \begin{itemize}
+   \item Para poder construir e invertar al mismo tiempo.
+   \item Para comunicar y presentar entregables.
+   \item Para empezar conversaciones e intercambiar ideas.
+   \item Para cometer errores en tiempo de dise\~no y desarrollo no tan avanzados, entonces fallar temprano es m\'as barato.
+   \item Para analizar alternativas y evaluar robustez.
+  \end{itemize}
+  Siguiendo el ejemplo, podemos presentar gr\'aficos estad\'isticos sobre costos, variables energ\'eticas y consumos estimados o prototipar una ensalada de 
+  frutas.
  \end{itemize}
  
  \item \textbf{Recabar informaci\'on sobre como funciona:}
-  Hasta esta instancia tenemos; el compromiso del o los alumnos para afrontar el desaf\'io del trabajo, posibles soluciones al problema mediante el dise\~no y
+  Hasta esta instancia tenemos; el compromiso del o los alumnos para afrontar el desaf\'io del proyecto, posibles soluciones al problema mediante el dise\~no y
   las bases de construcci\'on reflejadas en prototipos entregables. En este punto nos encargamos del an\'alisis y evaluaci\'on del funcionamiento, para ello 
   debemos contar con m\'etodos de simulaci\'on o ambientes de prueba:
   \begin{itemize}
    \item \textbf{Simulaci\'on y validaci\'on:}
-   
+   Analizar los resultados de cada uno de los pasos en la etapa de desarrollo:
+   \begin{itemize}
+    \item ¿Cu\'al es el problema? Definirlo en menos de 3 minutos.
+    \item Validar la o las soluciones.
+    \item Identificar los riesgos y modos de control.
+    \item Viabilidad.
+   \end{itemize}
+
    \item \textbf{CheckList:}
    Para seguir agregando actividades o entrenamiento al pensamiento sobre el trabajo que ya esta en pleno desarrollo, esta lista de preguntas ayudar\'an
    a seguir aportando valor:\\
    \begin{itemize}
     \item ¿Qu\'e particularidad o nueva funcionalidad le agregar\'ias al proyecto?.
     \item ¿C\'omo pensas que se puede llegar a mejorar?.
-    \item Si tendr\'ian que trabajar desde cero, ¿Qu\'e cambiar\'ian?
-    \item ¿Qu\'e experimento o pruebas piensan que este proyecto no superar\'ia?
+    \item Si tendr\'ian que trabajar desde cero, ¿Qu\'e cambiar\'ian?.
+    \item ¿Qu\'e experimento o pruebas piensan que este proyecto no superar\'ia?.
+    \item ¿C\'omo expandir esta soluci\'on a otros \'ambitos?.
    \end{itemize}
   
   \end{itemize}
@@ -87,9 +117,40 @@ monograf\'ias, etc. Para ello la siguiente lista de pasos:\\
   Para esto, definimos nuevos retos sobre lo ya construido como parte de la especificaci\'on anterior y largamos a rodar de nuevo los pasos anteriores.
 \end{enumerate}
 \subsection{Ciclo repetitivo}
-repetir muchas veces los pasos anterioes
+Repetir muchas veces los pasos anterioes
 
-\section{Estimulaci\'on}
-superaci\'on y crecimiento
-razonamiento, resoluci\'on de problemas y toma de desiciones.
 \section{Beneficios}
+La Estimulaci\'on o incentivaci\'on a formar procesos creativos no es f\'acil, mucho menos segura, pero consta de muchos beneficios:
+\begin{itemize}
+ \item \textbf{Superaci\'on}\\
+ El hecho de exceder tus propios l\'imites, ser parte de la creaci\'on, vencer obst\'aculos, entregar de nuevos mecanismos, entre muchos m\'as; hacer a la 
+ superaci\'on de los alumnos en el aprendizajes y vida diaria. Por el medio de esta herramienta, buscamos un proceso de transformaci\'on que adopte nuevas 
+ formas de pensamientos. Sup\'erate en la forma de encarar y plantear soluciones, ese es el mensaje que los docentes deben transmitir al poner en funcionamiento
+ esta herramienta. 
+ \item \textbf{Expandir el poder de razonamiento}\\
+ Seg\'un estudios, los seres humanos solo utilizan el \%5 de la capacidad de razonamiento. ¿Es posible utilizar m\'as capacidad? ¿C\'omo lograrlo?. La respuesta
+ es S\'i y los procesos creativos ayudan al entrenamiento para expandir el poder de razonamiento.\\
+ En sentido amplio, se entiende por razonamiento a la facultad que permite resolver problemas, extraer conclusiones y aprender de manera consciente de los 
+ hechos, estableciendo conexiones causales y lógicas necesarias entre ellos. En sentido más restringido se puede hablar de diferentes tipos de razonamiento:
+ \begin{itemize}
+  \item El razonamiento argumentativo en tanto actividad mental se corresponde con la actividad lingüística de argumentar. En otras palabras, un argumento es la
+  expresión lingüística de un razonamiento. 
+  \item El razonamiento lógico o causal es un proceso de lógica mediante el cual, partiendo de uno o más juicios, se deriva la validez, la posibilidad o la 
+  falsedad de otro juicio distinto. El estudio de los argumentos corresponde a la lógica, de modo que a ella también le corresponde indirectamente el estudio 
+  del razonamiento. Por lo general, los juicios en que se basa un razonamiento expresan conocimientos ya adquiridos o, por lo menos, postulados como hipótesis. 
+  Es posible distinguir entre varios tipos de razonamiento lógico. Por ejemplo el razonamiento deductivo (estrictamente lógico), el [razonamiento inductivo] 
+  (donde interviene la probabilidad y la formulación de conjeturas) y razonamiento abductivo, entre otros.
+ \end{itemize}     
+ \item \textbf{Resoluci\'on de problema}\\
+ Este \'item en particular hace referencia a mostrar al alumnado que es factible llegar al mismo resultado mediante diferentes caminos, todos ellos v\'alidos.\\
+ Por ejemplo, para un profesor de matem\'aticas el objetivo de un cierto trabajo es llegar al n\'umero diez, esto puede darse por la multiplicaci\'on de 2*5 o 
+ la suma de 5+5 o 3*3+1. El resultado es el mismo, pero el criterio de conseguirlo debe que formulado por los alumnos en base a herramientas provistas por los
+ docentes. 
+ \item \textbf{Toma de desiciones}\\
+ 
+ \item \textbf{Crecimiento sostenido}\\
+ \'Este punto esta citado como \'ultimo por la sencilla raz\'on que buscamos primero alcanzar la meta (nueva forma de pensar) para luego poder mantener, es decir, 
+ Aumentar los est\'andares a medida que el alumno pudo superarse, mejorar la capacidad de razonamiento, resoluci\'on de problemas y toma de desiciones.\\
+ El proceso sostenido implica no acelerar, pero tampoco retroceder, m\'as bien, mantener.
+\end{itemize}
+%Para la tesis http://hksec.hk/sites/default/files/attachment/805/javelin-experimentboard.pdf
