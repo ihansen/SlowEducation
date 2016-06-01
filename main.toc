@@ -22,17 +22,16 @@
 \contentsline {section}{\numberline {3.4}Conclusi\'on y Resultados}{27}{section.3.4}
 \contentsline {chapter}{\numberline {4}Ense\~nar a pensar}{29}{chapter.4}
 \contentsline {section}{\numberline {4.1}Las estructuras del proceso creativo}{29}{section.4.1}
-\contentsline {section}{\numberline {4.2}Ofrecerle la oportunidad de hacer sus propios caminos}{30}{section.4.2}
+\contentsline {section}{\numberline {4.2}A los alumnos, ofrecerles la oportunidad de hacer sus propios caminos}{30}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Dar tiempo para crear}{30}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}\IeC {\textquestiondown }Cuando aplicamos esta herramienta?}{30}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Ciclo repetitivo}{33}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Estimulaci\'on}{33}{section.4.3}
-\contentsline {section}{\numberline {4.4}Beneficios}{34}{section.4.4}
-\contentsline {chapter}{\numberline {5}Evaluaci\'on Slow}{35}{chapter.5}
-\contentsline {section}{\numberline {5.1}Una manera diferente de evaluar}{35}{section.5.1}
-\contentsline {section}{\numberline {5.2}Definir los tipos de tiempos}{35}{section.5.2}
-\contentsline {section}{\numberline {5.3}Desarrollo del m\IeC {\'e}todo}{35}{section.5.3}
-\contentsline {section}{\numberline {5.4}d}{35}{section.5.4}
-\contentsline {section}{\numberline {5.5}Beneficios}{35}{section.5.5}
-\contentsline {chapter}{\numberline {A}Tables}{37}{appendix.Alph1}
-\contentsline {chapter}{\numberline {B}Figures}{39}{appendix.Alph2}
+\contentsline {subsection}{\numberline {4.2.3}Ciclo repetitivo}{34}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Beneficios}{34}{section.4.3}
+\contentsline {chapter}{\numberline {5}Evaluaci\'on Slow}{37}{chapter.5}
+\contentsline {section}{\numberline {5.1}Una manera diferente de evaluar}{37}{section.5.1}
+\contentsline {section}{\numberline {5.2}Definir los tipos de tiempos}{37}{section.5.2}
+\contentsline {section}{\numberline {5.3}Desarrollo del m\IeC {\'e}todo}{37}{section.5.3}
+\contentsline {section}{\numberline {5.4}d}{37}{section.5.4}
+\contentsline {section}{\numberline {5.5}Beneficios}{37}{section.5.5}
+\contentsline {chapter}{\numberline {A}Tables}{39}{appendix.Alph1}
+\contentsline {chapter}{\numberline {B}Figures}{41}{appendix.Alph2}
